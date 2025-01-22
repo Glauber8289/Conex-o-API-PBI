@@ -1,6 +1,6 @@
 Conexões Power BI`
 
-##Criei este repositório com o objetivo de compartilhar algumas conexões utilizando o Power Query Editor.
+# Criei este repositório com o objetivo de compartilhar algumas conexões utilizando o Power Query Editor.
 
 Passos necessarios:
 
